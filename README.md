@@ -2,5 +2,5 @@
 - 👀 I’m interested in fullstack engineering
 - 🌱 I’m currently learning Cloud native
 - 💞️ I’m looking to collaborate on writing a OS kernel in Rust
+- ⚡ Fun fact: info above were all made up
 - 📫 How to reach me cai1hsu@outlook.com
-- ⚡ Fun fact: nothing is fun
